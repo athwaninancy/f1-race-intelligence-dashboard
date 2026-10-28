@@ -1,0 +1,6 @@
+{
+  "name": "F1 Race Intelligence Dashboard Analysis Report (2010–2026)",
+  "description": "Skill Wallet Capstone project website for the FORMULA 1 Race Intelligence Dashboard Analysis Report (2010–2026) in the Data Analytics with Tableau program, featuring interactive Tableau embed, 3 scenario analyses, audio narration, and GitHub guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
